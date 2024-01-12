@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/rohit/PycharmProjects/Manim/media/videos/main/2160p60/partial_movie_files/create_path/3215718966_2265674453_2998069598.mov'
+file 'file:C:/Users/rohit/PycharmProjects/Manim/media/videos/main/2160p60/partial_movie_files/create_path/1370976784_1911376530_475720338.mov'
+file 'file:C:/Users/rohit/PycharmProjects/Manim/media/videos/main/2160p60/partial_movie_files/create_path/1370976784_2216897446_3644949743.mov'

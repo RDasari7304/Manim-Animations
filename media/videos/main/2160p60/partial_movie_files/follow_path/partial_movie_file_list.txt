@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/rohit/PycharmProjects/Manim/media/videos/main/2160p60/partial_movie_files/follow_path/3215718966_1794854746_3207863210.mov'

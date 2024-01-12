@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/rohit/PycharmProjects/Manim/media/videos/main/2160p60/partial_movie_files/check_distance/3215718966_1845633857_2170627650.mov'
+file 'file:C:/Users/rohit/PycharmProjects/Manim/media/videos/main/2160p60/partial_movie_files/check_distance/1370976784_1989623081_4263294357.mov'
+file 'file:C:/Users/rohit/PycharmProjects/Manim/media/videos/main/2160p60/partial_movie_files/check_distance/1370976784_3564938924_4241104920.mov'
+file 'file:C:/Users/rohit/PycharmProjects/Manim/media/videos/main/2160p60/partial_movie_files/check_distance/1370976784_2885794096_574952367.mov'

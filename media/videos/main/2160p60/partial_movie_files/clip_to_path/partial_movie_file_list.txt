@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/rohit/PersonalProjects/Manim/media/videos/main/2160p60/partial_movie_files/clip_to_path/3215718966_288265695_1838850031.mov'
+file 'file:C:/Users/rohit/PersonalProjects/Manim/media/videos/main/2160p60/partial_movie_files/clip_to_path/1370976784_834096685_3191161600.mov'
+file 'file:C:/Users/rohit/PersonalProjects/Manim/media/videos/main/2160p60/partial_movie_files/clip_to_path/1370976784_3271084083_1150759711.mov'
+file 'file:C:/Users/rohit/PersonalProjects/Manim/media/videos/main/2160p60/partial_movie_files/clip_to_path/1370976784_2331926773_902255347.mov'
+file 'file:C:/Users/rohit/PersonalProjects/Manim/media/videos/main/2160p60/partial_movie_files/clip_to_path/1370976784_3264418816_1885793385.mov'
+file 'file:C:/Users/rohit/PersonalProjects/Manim/media/videos/main/2160p60/partial_movie_files/clip_to_path/1370976784_2148686299_3566049900.mov'
